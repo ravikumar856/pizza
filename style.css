@@ -1,0 +1,38 @@
+*{
+    margin: opx;
+    padding: 0px;
+}
+#out{
+    border: solid 1px;
+    height: 630px;
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1340px 630px ;
+}
+H1{
+    color:navajowhite;
+    font-size: 100px;
+    margin-top: 40px;
+    margin-left: 150px;
+    font-style:italic;
+}
+#register,#login{
+    height: 40px;
+    width: 120px;
+    background-color:navajowhite;
+}
+#register{
+    margin-left: 160px;
+}
+#register a,#login a{
+    color:blueviolet;
+    font-size: 18px;
+    text-decoration: none;
+}
+#register:hover{
+    background-color:rgb(236, 210, 57) ;
+}
+#login:hover{
+    background-color: rgb(238, 205, 16);
+}
+
